@@ -6,13 +6,14 @@ Projeto de pesquisa 2024/2025 (UFRPE)
 ## Descrição
 
 O projeto traefikAI visa a criação de um 
-sistema com aprendizado de máquina que possa ser 
+sistema de detecção de intrusão, utilizando aprendizado de máquina, que possa ser 
 utilizado em conjunto com o sistema de proxy 
-reverso **Traefik** e o sistema de detecção de 
-intrusão **Suricata**. 
+reverso **Traefik**. 
 O sistema de inteligência artificial será 
-responsável por analisar o tráfego de rede, através
-dos 'logs', e identificar possíveis ataques. 
+responsável por analisar o tráfego de rede que chega
+ao proxy reverso, através
+dos 'logs', e identificar possíveis tentativas de 
+ataques. 
 
 ## Análise de Dados
 
@@ -39,7 +40,7 @@ Os algoritmos de inteligência artificial que serão utilizados no projeto são:
 
 ## Tecnologias
 
-As tecnologias utilizadas no projeto são:
+As tecnologias utilizadas no projeto serão:
 
 - Python
 - Pandas
