@@ -55,3 +55,12 @@ As tecnologias utilizadas no projeto serão:
 
 GPL-3.0
 
+## Como preparar o ambiente
+
+- Python 3.12
+```bash
+python3.12 -m venv python312
+source python312/bin/activate
+pip install -r requirements.txt
+```
+

@@ -167,3 +167,4 @@ cython_debug/
 *.gz
 *.7z
 *.sh
+python*/*
